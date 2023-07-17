@@ -66,8 +66,9 @@ line-height: normal;
 }
 .banner-right{
     background-image: url(../Circle\ design.svg);
-    padding: 20px;
+    padding: 50px;
      background-repeat: no-repeat;
+   
    
 }
 .banner-img{
@@ -103,7 +104,7 @@ border: none;
 
   }
   .nav-left{
-   width: 500px;
+   width: px;
    padding-left: 100px;
    
    
@@ -111,6 +112,27 @@ border: none;
   .banner{
     flex-direction: column-reverse
   }
-
+  .nav-right{
+    margin-right: 100px;
+  }
+  .banner-paragraph {
+    width: 450px;
+  }
+  .banner-img {
+    padding-bottom: 50px;
+    width: 300px;
+    margin-left: 100px
+   
+}
+.banner-right{
+    width: ;
+    position: relative;
+    right: 50px;
+    padding: 1px;
+    background-size: 300px;
+    background-position: right 20px top;
+    
+}
+  
 }  
 
